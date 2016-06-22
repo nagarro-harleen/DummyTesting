@@ -1,0 +1,24 @@
+/*
+ * Style sheet for Layout Sample
+ */
+.pane {
+	-fx-background-color: white;
+	-fx-background-radius: 5.0;
+	-fx-background-insets: 25 25 25 25;
+	-fx-padding: 10;
+	-fx-hgap: 10;
+	-fx-vgap: 10;
+}
+
+.pane2 {
+	-fx-background-color: grey;
+	-fx-background-radius: 5.0;
+	-fx-background-insets: 25 25 25 25;
+	-fx-padding: 10;
+	-fx-hgap: 10;
+	-fx-vgap: 10;
+}
+
+.sceneTitle {
+	-fx-font: 20pt "Arial";
+}

@@ -33,5 +33,7 @@ public class ForEachExample {
 				"Id:%d, First Name:%s, Last Name:%s, Age:%d\n", u.getId(),
 				u.getFirstName(), u.getLastName(), u.getAge()));
 		System.out.println("harleen");
+		System.out.println("harleen1");
+		System.out.println("harleen1");
 	}
 }

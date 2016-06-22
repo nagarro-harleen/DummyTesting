@@ -32,6 +32,7 @@ public class StreamFilterExample {
 		// API
 		System.out
 				.println("Filtered list of users having age greater than 45 years:");
+		System.out.println("harleen");
 		users.stream()
 				.filter(u -> (u.getAge() > 45))
 				.forEach(

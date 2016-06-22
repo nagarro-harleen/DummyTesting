@@ -32,5 +32,6 @@ public class ForEachExample {
 		users.forEach(u -> System.out.printf(
 				"Id:%d, First Name:%s, Last Name:%s, Age:%d\n", u.getId(),
 				u.getFirstName(), u.getLastName(), u.getAge()));
+		System.out.println("harleen");
 	}
 }
